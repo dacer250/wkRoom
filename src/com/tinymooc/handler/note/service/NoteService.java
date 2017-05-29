@@ -1,7 +1,7 @@
 package com.tinymooc.handler.note.service;
 
 
-import com.tinymooc.common.base;
+import com.tinymooc.common.base.BaseService;
 import com.tinymooc.common.domain.User;
 
 public interface NoteService extends BaseService {

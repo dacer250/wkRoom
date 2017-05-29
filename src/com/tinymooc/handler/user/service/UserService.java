@@ -1,6 +1,6 @@
 package com.tinymooc.handler.user.service;
 
-import com.tinymooc.common.base;
+import com.tinymooc.common.base.BaseService;
 import com.tinymooc.common.domain.Level;
 import com.tinymooc.common.domain.User;
 

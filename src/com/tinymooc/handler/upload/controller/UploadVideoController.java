@@ -9,17 +9,17 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.tinymooc.common.base;
+import com.tinymooc.common.base.BaseService;
 import com.tinymooc.common.base.impl.BaseServiceImpl;
 import com.tinymooc.common.domain.*;
 import com.tinymooc.handler.upload.service.UploadService;
 import com.tinymooc.util.UUIDGenerator;
-
 import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.hibernate.criterion.DetachedCriteria;
 import org.hibernate.criterion.Restrictions;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

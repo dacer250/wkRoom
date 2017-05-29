@@ -1,6 +1,6 @@
 package com.tinymooc.handler.attention.service;
 
-import com.tinymooc.common.base;
+import com.tinymooc.common.base.BaseService;
 
 import java.util.List;
 

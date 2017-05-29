@@ -1,7 +1,6 @@
 package com.tinymooc.handler.login.service;
 
-import com.tinymooc.common.base;
-
+import com.tinymooc.common.base.BaseService;
 import org.springframework.stereotype.Service;
 
 /**

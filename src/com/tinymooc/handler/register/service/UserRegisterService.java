@@ -1,6 +1,6 @@
 package com.tinymooc.handler.register.service;
 
-import com.tinymooc.common.base;
+import com.tinymooc.common.base.BaseService;
 import com.tinymooc.common.domain.User;
 
 public interface UserRegisterService extends BaseService {

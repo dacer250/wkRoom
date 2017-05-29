@@ -1,6 +1,6 @@
 package com.tinymooc.handler.upload.service;
 
-import com.tinymooc.common.base;
+import com.tinymooc.common.base.BaseService;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

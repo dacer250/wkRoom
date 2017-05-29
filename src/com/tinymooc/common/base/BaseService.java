@@ -1,7 +1,7 @@
 package com.tinymooc.common.base;
 
 /**
- * Created by ���� on 2015/11/23 0026.
+ * Created by 哓哓 on 2015/11/23 0026.
  */
 
 import org.hibernate.Session;
