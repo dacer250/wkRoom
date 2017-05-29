@@ -1,8 +1,9 @@
 package com.tinymooc.handler.course.service;
 
-import com.tinymooc.common.base.BaseService;
+import com.tinymooc.common.base;
 import com.tinymooc.common.domain.User;
 import com.tinymooc.common.domain.Course;
+
 import java.util.*;
 
 public interface CourseService extends BaseService {

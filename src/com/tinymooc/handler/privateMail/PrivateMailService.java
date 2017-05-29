@@ -1,6 +1,6 @@
 package com.tinymooc.handler.privateMail;
 
-import com.tinymooc.common.base.BaseService;
+import com.tinymooc.common.base;
 
 import java.util.List;
 

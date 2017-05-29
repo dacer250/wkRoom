@@ -1,6 +1,6 @@
 package com.tinymooc.handler.resource.service;
 
-import com.tinymooc.common.base.BaseService;
+import com.tinymooc.common.base;
 
 /**
  * Created by 哓哓 on 2016/1/14 0014.

@@ -2,7 +2,7 @@ package com.tinymooc.handler.label.service;
 
 
 import com.tinymooc.handler.label.model.enums.LabelObjectType;
-import com.tinymooc.common.base.BaseService;
+import com.tinymooc.common.base;
 
 
 public interface LabelService extends BaseService {
